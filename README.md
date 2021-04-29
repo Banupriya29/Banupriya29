@@ -1,16 +1,37 @@
-### Hi there 👋
-
-<!--
-**Banupriya29/Banupriya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>The Justin Music</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <section id="main">
+      <nav>
+        <a href="#" class="logo">
+          <img src="swag-logo.png"alt="The logo of the project justin">
+        </a>
+        <span class="menu-space"></span>
+        <ul class="menu">
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">SKILLS</a></li>
+          <li><a href="#">RECENT</a></li>
+          <li><a href="#">CLIENT</a></li>
+          <li><a href="#">CONTACTS</a></li>
+          </ul>
+          <a href="#"class="Hey"><strong>Say Hello!</strong></a>
+      </nav>
+    </section>
+    <section class="content">
+      <div class="image">
+        <img src="1016322_justin-bieber-wallpapers-hd.jpg"alt="justin">
+            </div>
+        <div class="main-text">
+          <h1>Hello, I am Justin</h1>
+          <p>Hey in this website I will be showing you guys the types of music albums that I have made and teach you to be a singer by sharing some of my videos. </p>
+          <a href="records.html" class="records-btn">Checkout My records!</a>
+        </div>
+  
+    </section>
+  </body>
+</html>
