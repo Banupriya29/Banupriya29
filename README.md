@@ -2,14 +2,14 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>The Justin Music</title>
+    <title>The Tom Cruise Actor </title>
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
     <section id="main">
       <nav>
         <a href="#" class="logo">
-          <img src="swag-logo.png"alt="The logo of the project justin">
+          <img src="swag-logo.png"alt="The logo of the project tom cruise">
         </a>
         <span class="menu-space"></span>
         <ul class="menu">
